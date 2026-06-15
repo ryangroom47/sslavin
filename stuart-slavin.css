@@ -152,7 +152,7 @@ header {
 }
 
 .header-logo {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     text-decoration: none;
     font-family: var(--heading-font-family);
     color: var(--primary-bg);
